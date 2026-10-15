@@ -1,4 +1,4 @@
-# Alex
+# GeniAl 
 
 I am a student who codes as a hobby. I started coding in 2022 when I begin using Python. After, I learned to code in JavaScript and PHP. More recently, I tried to expand my knowledge by learning C/C++, JavaScript, Kotlin, C# and Typescript.
 
